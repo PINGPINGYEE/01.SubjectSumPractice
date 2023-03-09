@@ -5,7 +5,7 @@ int main()
 	
 	int sum = 0;
 	int i = 2;
-	int j = 0;
+	int j;
 	int cnt = 0;
 
 	while (i < 101)
