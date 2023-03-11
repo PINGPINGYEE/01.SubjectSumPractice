@@ -15,6 +15,7 @@ int main()
 			if (i % j == 0)
 			{
 				cnt += 1;
+				break;
 			}
 		}
 		if (cnt == 0)
